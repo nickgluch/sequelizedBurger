@@ -1,0 +1,71 @@
+body {
+background-color:    #ffc34d;
+}
+
+img {
+ margin-left:610px;
+}
+
+h1 {
+text-align:center;
+color:red;
+}
+
+h2 {
+  color:rgb(221, 87, 10);
+  font-weight:bold;
+}
+
+.burgerList {
+  float:left;
+  padding:100px;
+  text-align:center;
+  margin-top:-100px;
+  margin-left:180px;
+}
+
+#burger_nameID {
+  width:300px;
+  height:50px;
+  border-color:red;
+  background-color:rgba(255, 229, 209, 0.932);
+}
+
+#burgerButton {
+  color:black;
+  font-weight:bold;
+  border-color:black;
+  background-color:rgb(255, 72, 0);
+  width: 100px;
+  height:30px;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.create-form {
+text-align:center;
+}
+
+#addBurgerID {
+text-align:center;
+}
+
+
